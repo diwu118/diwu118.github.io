@@ -135,10 +135,10 @@
             var p = d3.format(".2%"), q = d3.format(",.3r")
             return "Chord Info:<br/>"
               + "Score of " + q(d.svalue) + ": "
-              + d.sname + " is influenced by " + d.tname
+              + d.sname + " influences " + d.tname
               + (d.sname === d.tname ? "": ("<br/>while<br/>"
               + "Score of " + q(d.tvalue) + ": "
-              + d.tname + " is influenced by " + d.sname))
+              + d.tname + " influences " + d.sname))
           }
 
           function groupTip (d) {
