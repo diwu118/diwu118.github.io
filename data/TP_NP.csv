@@ -1,5 +1,5 @@
 has,prefers,count
-CIGN,CMP tech experts,1
+CIGN,CMP tech experts,2
 CIGN,Reg tech experts,1
 CIGN,ACDs,1
 CIGN,CO country director,1
@@ -7,3 +7,14 @@ CIGN,CO tech experts,1
 GiE,CMP Humanitarian experts,1
 GiE,CMP tech experts,1
 GiE,Reg tech experts,1
+sister-in-law,girl,10
+father,girl,50
+brother,girl,30
+mother,girl,80
+other boys,girl,5
+other girls,girl,10
+teachers,girl,10
+religious leaders,girl,10
+neighbors,girl,10
+youth networks,girl,10
+other family,girl,10
