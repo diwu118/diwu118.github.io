@@ -27,3 +27,50 @@ sister-in-law,brother,10
 police,father,10
 administration,father,10
 religious leaders,father,10
+landlords,father,10
+mother,father,10
+male campaigners,father,10
+local activists,father,10
+youth networks,father,10
+other women,father,10
+neighbors,father,10
+other men,father,10
+other women,father,10
+administration,father,10
+EVAW Committee,father,10
+matchmaker,father,10
+girl,father,5
+teachers,father,10
+brother,father,10
+police,mother,10
+administration,mother,10
+religious leaders,mother,10
+landlords,mother,10
+father,mother,50
+male campaigners,mother,10
+local activists,mother,10
+youth networks,mother,10
+neighbors,mother,10
+administration,mother,10
+EVAW Committee,mother,10
+girl,mother,2
+brother,mother,10
+health providers,mother,10
+teachers,mother,10
+matchmaker,mother,10
+administration,police,10
+administration,teachers,10
+police,teachers,10
+EVAW Committee,administration,10
+father,landlords,5
+mother,landlords,5
+religious leaders,neighbors,5
+administration,neighbors,5
+landlords,neighbors,5
+local activists,neighbors,5
+matchmaker,neighbors,5
+male campaigners,neighbors,5
+administration,health providers,10
+neighbors,other family,10
+father,other family,10
+religious leaders,other family,10
