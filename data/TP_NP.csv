@@ -1,76 +1,96 @@
 has,prefers,count
-sister-in-law,girl,10
-father,girl,50
-brother,girl,30
-mother,girl,80
-other boys,girl,5
-other girls,girl,10
-teachers,girl,10
-religious leaders,girl,10
-neighbors,girl,10
-youth networks,girl,10
-other family,girl,10
-health providers,girl,10
-brother,sister-in-law,10
-mother,sister-in-law,10
-father,sister-in-law,10
-other family,sister-in-law,10
-neighbors,sister-in-law,10
-other girls,sister-in-law,10
-other boys,brother,20
-teachers,brother,10
-landlords,brother,10
-male campaigners,brother,10
-father,brother,10
-mother,brother,10
-sister-in-law,brother,10
-police,father,10
-administration,father,10
-religious leaders,father,10
-landlords,father,10
-mother,father,10
-male campaigners,father,10
-local activists,father,10
-youth networks,father,10
-other women,father,10
-neighbors,father,10
-other men,father,10
-other women,father,10
-administration,father,10
-EVAW Committee,father,10
-matchmaker,father,10
-girl,father,5
-teachers,father,10
-brother,father,10
-police,mother,10
-administration,mother,10
-religious leaders,mother,10
-landlords,mother,10
-father,mother,50
-male campaigners,mother,10
-local activists,mother,10
-youth networks,mother,10
-neighbors,mother,10
-administration,mother,10
-EVAW Committee,mother,10
-girl,mother,2
-brother,mother,10
-health providers,mother,10
-teachers,mother,10
-matchmaker,mother,10
-administration,police,10
-administration,teachers,10
-police,teachers,10
-EVAW Committee,administration,10
-father,landlords,5
-mother,landlords,5
-religious leaders,neighbors,5
-administration,neighbors,5
-landlords,neighbors,5
-local activists,neighbors,5
-matchmaker,neighbors,5
-male campaigners,neighbors,5
-administration,health providers,10
-neighbors,other family,10
-father,other family,10
-religious leaders,other family,10
+CIGN,CMP tech experts,1
+CIGN,Reg tech experts,1
+CIGN,ACDs,1
+CIGN,CO country director,1
+CIGN,CO tech experts,1
+GiE,CMP Humanitarian experts,1
+GiE,CMP tech experts,1
+GiE,Reg tech experts,1
+GiE,CO tech experts,1
+LFFV working group,CMP tech experts,1
+LFFV working group,Reg IGS leads,1
+GEWV steering group,CI outcome leads,1
+GEWV steering group,Reg tech experts,1
+GEWV steering group,CMP tech experts,1
+GED CO staff network,CMP tech experts,1
+GED CO staff network,CO tech experts,1
+Regional HR Folk,CO HR staff,1
+Southern Africa Hub,ACDs,1
+Southern Africa Hub,CO Program Coordinators,1
+Southern Africa Hub,CO tech experts,1
+Southern Africa Hub,Reg tech experts,1
+Southern Africa Hub,CMP tech experts,1
+API CoP,ACDs,1
+API CoP,CO tech experts,1
+West Africa WoM,CO Program Coordinators,1
+West Africa WoM,ACDs,1
+West Africa WoM,CO tech experts,1
+Asia Made by Women,ACDs,1
+Asia Made by Women,CO tech experts,1
+Asia Made by Women,CO Program Coordinators,1
+LAC Domestic Workers,ACDs,1
+LAC Domestic Workers,CO tech experts,1
+LAC Domestic Workers,CO Program Coordinators,1
+MENA,ACDs,1
+MENA,CO tech experts,1
+MENA,CO Program Coordinators,1
+GLR,ACDs,1
+GLR,CO tech experts,1
+GLR,CO Program Coordinators,1
+Asia GiE,CO Humanitarian Coordinators,1
+Asia GiE,ACDs,1
+Asia LFFV,CO Program Coordinators,1
+Asia LFFV,CMP tech experts,1
+Asia LFFV,ACDs,1
+PSEA Task Force,CO HR,1
+PSEA Task Force,Reg HR,1
+PSEA Task Force,CMP HR ,1
+PSEA Task Force,CMP Legal,1
+CI MEL group,CMP tech experts,1
+CI MEL group,Reg tech experts,1
+CI MEL group,CO tech experts,1
+EMB Working Group,CMP tech experts,1
+EMB Working Group,Reg tech experts,1
+EMB Working Group,CO tech experts,1
+Gender Cohort,CO tech experts,1
+Gender Cohort,CMP tech experts,1
+Gender Cohort,Reg tech experts,1
+Gender marker superstars,CO tech experts,1
+Women leadership,CO tech experts,1
+Women leadership,CMP tech experts,1
+SAA group,CO tech experts,1
+SAA group,CMP tech experts,1
+Women's movements,CO tech experts,1
+Women's movements,CMP tech experts,1
+Programme Strategy Team,CI outcome leads,1
+Programme Strategy Team,CI advocacy,1
+PQI SLT,CMP program directors,1
+PQI SLT,CI Gender,1
+PQI SLT,CO country director,1
+Programme Directors,CMP program directors,1
+Regional PQ forums,ACDs,1
+Regional PQ forums,CO tech experts,1
+FNS steering committee,CO tech experts,1
+FNS steering committee,CMP tech experts,1
+SRHR steering committee,CO tech experts,1
+SRHR steering committee,CMP tech experts,1
+WEE steering committee,CO tech experts,1
+WEE steering committee,CMP tech experts,1
+ERWG,CMP Humanitarian experts,1
+CEG,CI Humanitarian,1
+Humanitarian FN,CO tech experts,1
+Humanitarian FN,CMP tech experts,1
+Humanitarian FN,Reg tech experts,1
+Humanitarian WASH,CO tech experts,1
+Humanitarian WASH,CMP tech experts,1
+Humanitarian WASH,Reg tech experts,1
+Humanitarian SRHR,CO tech experts,1
+Humanitarian SRHR,CMP tech experts,1
+Humanitarian SRHR,Reg tech experts,1
+Humanitarian Shelter,CO tech experts,1
+Humanitarian Shelter,CMP tech experts,1
+Humanitarian Shelter,Reg tech experts,1
+Humanitarian Cash,CO tech experts,1
+Humanitarian Cash,CMP tech experts,1
+Humanitarian Cash,Reg tech experts,1
