@@ -1,7 +1,28 @@
 has,prefers,count
-girl,sister-in-law,10
-girl,father,50
-father,girl,5
-father,teachers,10
-sister-in-law,girl,10
-teachers,father,5
+ACDs,Southern Africa Hub,1
+ACDs,API CoP,1
+ACDs,West Africa WoM,1
+ACDs,Asia WEE IGS,1
+ACDs,LAC DW IGS,1
+ACDs,MENA,1
+ACDs,GLR,1
+ACDs,Asia GiE,1
+ACDs,Asia LFFV,1
+ACDs,Regional PQ forums,1
+CI Advocacy,ACDs,1
+CI Gender,CIGN,1
+CI Gender,CO tech experts,1
+CI Gender,Reg tech experts,1
+CI Gender,CMP tech experts,1
+CIGN,ACDs,1
+Southern Africa Hub,ACDs,1
+API CoP,ACDs,1
+West Africa WoM,ACDs,1
+Asia WEE IGS,ACDs,1
+LAC DW IGS,ACDs,1
+MENA,ACDs,1
+GLR,ACDs,1
+Asia GiE,ACDs,1
+Asia LFFV,ACDs,1
+Regional PQ forums,ACDs,1
+PQI SLT,CI Gender,1
