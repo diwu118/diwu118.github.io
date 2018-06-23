@@ -11,19 +11,6 @@ girl,neighbors,10
 girl,youth networks,10
 girl,other family,10
 girl,health providers,10
-sister-in-law,brother,10
-sister-in-law,mother,10
-sister-in-law,father,10
-sister-in-law,other family,10
-sister-in-law,neighbors,10
-sister-in-law,other girls,10
-brother,other boys,20
-brother,teachers,10
-brother,landlords,10
-brother,male campaigners,10
-brother,father,10
-brother,mother,10
-brother,sister-in-law,10
 father,police,10
 father,administration,10
 father,religious leaders,10
@@ -42,35 +29,3 @@ father,matchmaker,10
 father,girl,5
 father,teachers,10
 father,brother,10
-mother,police,10
-mother,administration,10
-mother,religious leaders,10
-mother,landlords,10
-mother,father,50
-mother,male campaigners,10
-mother,local activists,10
-mother,youth networks,10
-mother,neighbors,10
-mother,administration,10
-mother,EVAW Committee,10
-mother,girl,2
-mother,brother,10
-mother,health providers,10
-mother,teachers,10
-mother,matchmaker,10
-police,administration,10
-teachers,administration,10
-teachers,police,10
-administration,EVAW Committee,10
-landlords,father,5
-landlords,mother,5
-neighbors,religious leaders,5
-neighbors,administration,5
-neighbors,landlords,5
-neighbors,local activists,5
-neighbors,matchmaker,5
-neighbors,male campaigners,5
-health providers,administration,10
-other family,neighbors,10
-other family,father,10
-other family,religious leaders,10
