@@ -3,3 +3,5 @@ girl,sister-in-law,10
 girl,father,50
 father,girl,5
 father,teachers,10
+sister-in-law,girl,10
+teachers,father,5
