@@ -13,3 +13,21 @@ EVAW Committee,mother,10
 girl,mother,2
 brother,mother,10
 health providers,mother,10
+teachers,mother,10
+matchmaker,mother,10
+administration,police,10
+administration,teachers,10
+police,teachers,10
+EVAW Committee,administration,10
+father,landlords,5
+mother,landlords,5
+religious leaders,neighbors,5
+administration,neighbors,5
+landlords,neighbors,5
+local activists,neighbors,5
+matchmaker,neighbors,5
+male campaigners,neighbors,5
+administration,health providers,10
+neighbors,other family,10
+father,other family,10
+religious leaders,other family,10
